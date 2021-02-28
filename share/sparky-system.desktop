@@ -1,0 +1,15 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Name=System Info
+GenericName=System Info
+Name[pl]=Informacje o Systemie
+Comment=Gather and show information about system
+Comment[pl]=Zbiera i wyświetla informacje o systemie
+Exec=/usr/bin/sparky-system
+Icon=computer
+Terminal=false
+MultipleArgs=false
+Type=Application
+Categories=Applications;System
+

@@ -1,0 +1,38 @@
+# Polish localization file for Sparky System Info.
+# Copyright 2021 Paweł "pavroo" Pijanowski <pavroo@onet.eu> 2021/02/28
+# Under the GNU GPL v2
+# Translated to Polish by pavroo
+# Last update 2021/02/28 by pavroo
+LOCAL1="Informacje o CPU"
+LOCAL2="Parametery"
+LOCAL3="Wartość"
+LOCAL4="Informacje o użyciu pamięci"
+LOCAL5="Klasa"
+LOCAL6="Producent"
+LOCAL7="Urządzenie"
+LOCAL8="Wersja"
+LOCAL9="Urządzenia PCI bus"
+LOCAL10="Załadowane moduły jądra"
+LOCAL11="Nazwa"
+LOCAL12="Użycie"
+LOCAL13="Zależności"
+LOCAL14="Stan baterii"
+LOCAL15="Detale"
+LOCAL16="Informacje o sensorach"
+LOCAL17="Użycie przestrzeni dysku"
+LOCAL18="Rozmiar"
+LOCAL19="Właściciel"
+LOCAL20="Typ"
+LOCAL21="Punkt montowania"
+LOCAL22="Informacje o systemie"
+LOCAL23="Pamięć"
+LOCAL24="Moduły"
+LOCAL25="Bateria"
+LOCAL26="Sensory"
+LOCAL27="Dyski"
+LOCAL28="Informacje o sprzęcie"
+LOCAL29="Wyjście"
+LOCAL30="Jądro"
+## .desktop file, również do przetłumaczenia
+# Name[pl_PL]=Informacje o Systemie
+# Comment[pl_PL]=Zbiera i wyświetla informacje o systemie
