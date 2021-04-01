@@ -5,11 +5,15 @@
 #
 # Created by Paweł "pavroo" Pijanowski 2021/02/28
 # Copyright 2021 under the GNU GPL3 License
-# Last updated 2021/02/28
+# Last updated 2021/04/01
 
 # get default's locale file
 DEFLOCDIR="/usr/share/sparky/sparky-system"
-if [ "`cat /etc/default/locale | grep LANG= | grep pl`" != "" ]; then
+if [ "`cat /etc/default/locale | grep LANG= | grep el`" != "" ]; then
+. $DEFLOCDIR/el
+elif [ "`cat /etc/default/locale | grep LANG= | grep es`" != "" ]; then
+. $DEFLOCDIR/es
+elif [ "`cat /etc/default/locale | grep LANG= | grep pl`" != "" ]; then
 . $DEFLOCDIR/pl
 else
 . $DEFLOCDIR/en
@@ -64,7 +68,7 @@ lsblk -o NAME,SIZE,OWNER,TYPE,MOUNTPOINT | tail -n +2 | awk '{printf "%s\n%s\n%s
         --list --no-selection --column="$LOCAL11" --column="$LOCAL18" --column="$LOCAL19" --column="$LOCAL20" --column="$LOCAL21" &
 
 # main window
-yad --notebook --width=800 --height=600 --center --title="$LOCAL22" --image=computer --text="<span font_weight='bold'>$LOCAL28</span>\n\n<span font_weight='bold'>OS:</span> $OSNAME $OSVERSION $OSCODE\n<span font_weight='bold'>Kernel:</span> $KERNELVER" --button="$LOCAL29:0" \
+yad --notebook --width=800 --height=600 --center --title="$LOCAL22" --image=computer --window-icon=computer --text="<span font_weight='bold'>$LOCAL28</span>\n\n<span font_weight='bold'>OS:</span> $OSNAME $OSVERSION $OSCODE\n<span font_weight='bold'>Kernel:</span> $KERNELVER" --button="$LOCAL29:0" \
    --key=$KEY --tab="CPU" --tab="$LOCAL23" --tab="PCI" --tab="$LOCAL24" --tab="$LOCAL25" --tab="$LOCAL26" --tab="$LOCAL27" --active-tab=${1:-1}
 
 exit 0

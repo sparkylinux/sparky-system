@@ -1,0 +1,37 @@
+# Greek localization file for Sparky System Info.
+# Copyright 2021 PaweÅ‚ "pavroo" Pijanowski <pavroo@onet.eu> 2021/02/28
+# Under the GNU GPL v2
+# Last update 2021/03/26 by jidan
+LOCAL1="Πληροφορίες Επεξεργαστή"
+LOCAL2="Παράμετρος"
+LOCAL3="Τιμή"
+LOCAL4="Πληροφορίες χρήσης μνήμης"
+LOCAL5="Κλάση"
+LOCAL6="Κατασκευαστής"
+LOCAL7="Συσκευή"
+LOCAL8="Rev"
+LOCAL9="Συσκευές στο PCI bus"
+LOCAL10="Ενεργά modules του πυρήνα"
+LOCAL11="Όνομα"
+LOCAL12="Χρησιμοποιείται"
+LOCAL13="Εξαρτάται"
+LOCAL14="Κατάσταση μπαταρίας"
+LOCAL15="Λεπτομέρειες"
+LOCAL16="Πληροφορίες αισθητήρων"
+LOCAL17="Χρήση δίσκου"
+LOCAL18="Μέγεθος"
+LOCAL19="Ιδιοκτήτης"
+LOCAL20="Τύπος"
+LOCAL21="Σημείο προσάρτησης"
+LOCAL22="Πληροφορίες συστήματος"
+LOCAL23="Μνήμη"
+LOCAL24="Modules"
+LOCAL25="Μπαταρία"
+LOCAL26="Αισθητήρες"
+LOCAL27="Δίσκοι"
+LOCAL28="Πληροφορίες υλικού"
+LOCAL29="Έξοδος"
+LOCAL30="Πυρήνας"
+### .desktop file to be translated too
+# Name[el_GR]=Πληροφορίες Συστήματος
+# Comment[el_GR]=Συγκεντρωτικές πληροφορίες συστήματος
