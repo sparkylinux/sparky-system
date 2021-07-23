@@ -5,7 +5,7 @@
 #
 # Created by Paweł "pavroo" Pijanowski 2021/02/28
 # Copyright 2021 under the GNU GPL3 License
-# Last updated 2021/06/13
+# Last updated 2021/07/23
 
 # get default's locale file
 DEFLOCDIR="/usr/share/sparky/sparky-system"
@@ -53,6 +53,11 @@ if [ -f /tmp/sesnsorscheck ]; then
 	rm -f /tmp/sesnsorscheck
 fi
 sensors -A >> /tmp/sesnsorscheck
+CHECKSENSORS=`cat /tmp/sesnsorscheck | grep [a-b,A-B,0-9]`
+if [ "$CHECKSENSORS" = "" ]; then
+	echo "Can NOT load sensors." >> /tmp/sesnsorscheck
+fi
+
 yad --plug=$KEY --image=cpu --tabnum=5 --text="$LOCAL16" \
     --text-info --filename /tmp/sesnsorscheck &
 
