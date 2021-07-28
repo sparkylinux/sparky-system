@@ -1,0 +1,37 @@
+# English localization file for Sparky System Info.
+# Copyright 2021 Paweł "pavroo" Pijanowski <pavroo@onet.eu> 2021/02/28
+# Under the GNU GPL v2
+# Last update 2021/02/28 by pavroo
+LOCAL1="Информация о процессоре"
+LOCAL2="Параметр"
+LOCAL3="Значение"
+LOCAL4="Информация об использовании памяти"
+LOCAL5="Класс"
+LOCAL6="Поставщик"
+LOCAL7="Устройство"
+LOCAL8="Rev"
+LOCAL9="Устройства шины PCI"
+LOCAL10="Загруженные модули ядра"
+LOCAL11="Имя"
+LOCAL12="Используется"
+LOCAL13="Depends"
+LOCAL14="Состояние батареи"
+LOCAL15="Подробности"
+LOCAL16="Информация о датчиках"
+LOCAL17="Использование дискового пространства"
+LOCAL18="Размер"
+LOCAL19="Владелец"
+LOCAL20="Тип"
+LOCAL21="Точка монтирования"
+LOCAL22="Информация о системе"
+LOCAL23="Память"
+LOCAL24="Модули"
+LOCAL25="Батарея"
+LOCAL26="Датчики"
+LOCAL27="Диски"
+LOCAL28="Информация об аппаратной системе"
+LOCAL29="Выход"
+LOCAL30="Ядро"
+### .desktop file to be translated too
+# Name [ru_RU]=Информация о системе
+# Comment [ru_RU]=Соберите и покажите информацию о системе
