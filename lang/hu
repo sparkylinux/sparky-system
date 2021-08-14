@@ -1,0 +1,40 @@
+# Magyar nyelvi fájl a Sparky Rendszer-információhoz [nemomen 2021]
+# Copyright 2021 Paweł "pavroo" Pijanowski <pavroo@onet.eu> 2021/02/28
+# GNU GPL v2 licenc szerint
+# Utolsó frissítés 2021/02/28 pavroo által
+LOCAL1="CPU információ"
+LOCAL2="Paraméter"
+LOCAL3="Érték"
+LOCAL4="Memóriahasználati információ"
+LOCAL5="Osztály"
+LOCAL6="Eladó/forgalmazó"
+LOCAL7="Eszköz"
+LOCAL8="Rev"
+LOCAL9="PCI bus eszközök"
+LOCAL10="Betöltött kernel modulok"
+LOCAL11="Név"
+LOCAL12="Használt"
+LOCAL13="Függ"
+LOCAL14="Elem/telep állapot"
+LOCAL15="Részletek"
+LOCAL16="Szenzor információ"
+LOCAL17="Lemezterület használat"
+LOCAL18="Méret"
+LOCAL19="Tulajdonos"
+LOCAL20="Típus"
+LOCAL21="Csatolási pont"
+LOCAL22="Rendszer-információ"
+LOCAL23="Memória"
+LOCAL24="Modulok"
+LOCAL25="Elem/telep"
+LOCAL26="Szenzorok"
+LOCAL27="Lemezek"
+LOCAL28="Hardware rendszer információ"
+LOCAL29="Kilépés"
+LOCAL30="Kernel"
+### .desktop file to be translated too
+# Name[en_US]=System Info
+# Comment[en_US]=Gather and show information about system
+
+
+
