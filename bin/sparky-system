@@ -4,17 +4,19 @@
 # Inspired by https://sanana.kiev.ua/index.php/yad
 #
 # Created by Paweł "pavroo" Pijanowski 2021/02/28
-# Copyright 2021 under the GNU GPL3 License
-# Last updated 2021/08/14
+# Copyright 2021-2022 under the GNU GPL3 License
+# Last updated 2022/06/09
 
 # get default's locale file
 DEFLOCDIR="/usr/share/sparky/sparky-system"
 if [ "`cat /etc/default/locale | grep LANG= | grep el`" != "" ]; then
 . $DEFLOCDIR/el
-elif [ "`cat /etc/default/locale | grep LANG= | grep hu`" != "" ]; then
-. $DEFLOCDIR/hu
 elif [ "`cat /etc/default/locale | grep LANG= | grep es`" != "" ]; then
 . $DEFLOCDIR/es
+elif [ "`cat /etc/default/locale | grep LANG= | grep hu`" != "" ]; then
+. $DEFLOCDIR/hu
+elif [ "`cat /etc/default/locale | grep LANG= | grep it`" != "" ]; then
+. $DEFLOCDIR/it
 elif [ "`cat /etc/default/locale | grep LANG= | grep pl`" != "" ]; then
 . $DEFLOCDIR/pl
 elif [ "`cat /etc/default/locale | grep LANG= | grep ru`" != "" ]; then

@@ -1,0 +1,38 @@
+# File di localizzazione in Italiano Sparky System Info.
+# Copyright 2021 Paweł "pavroo" Pijanowski <pavroo@onet.eu> 2021/02/28
+# Under the GNU GPL v2
+# Ultimo aggiornamento 2022/05/18 by Yodel Sinatra <mastodon.uno/@YodelSinatra>
+# Last update 2021/02/28 by pavroo
+LOCAL1="Informazioni CPU"
+LOCAL2="Parametri"
+LOCAL3="Valori"
+LOCAL4="Dati sull'uso della memoria"
+LOCAL5="Classi"
+LOCAL6="Fornitore"
+LOCAL7="Dispositivo"
+LOCAL8="Rev"
+LOCAL9="PCI bus devices"
+LOCAL10="Moduli del kernel caricati"
+LOCAL11="Nome"
+LOCAL12="Usati"
+LOCAL13="Dipendenze"
+LOCAL14="Livello Batteria"
+LOCAL15="Dettagli"
+LOCAL16="Informazioni Sensori"
+LOCAL17="Utilizzo dello spazio su Disco"
+LOCAL18="Dimensione"
+LOCAL19="Proprietario"
+LOCAL20="Tipo"
+LOCAL21="Punto di montaggio"
+LOCAL22="Info Sistema"
+LOCAL23="Memoria"
+LOCAL24="Moduli"
+LOCAL25="Batteria"
+LOCAL26="Sensori"
+LOCAL27="Dischi"
+LOCAL28="Informazioni Hardware"
+LOCAL29="Esci"
+LOCAL30="Kernel"
+### .desktop file to be translated too
+# Name[it_IT]=Info sul Sistema
+# Comment[it_IT]=Raccogli e mostra informazioni relative al Sistema
