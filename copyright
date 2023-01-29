@@ -6,7 +6,7 @@ Upstream Author(s):
     Paweł "pavroo" Pijanowski <pavroo@onet.eu>
     
 Files: *
-    Copyright (C) 2021 Paweł Pijanowski
+    Copyright (C) 2021-2023 Paweł Pijanowski
     License: GNU GPL-3
 
 File: el
@@ -28,7 +28,11 @@ File: it
 File: ru
     Copyright (C) 2021 ChourS
     License: GNU GPL-3
-    
+
+File: uk
+    Copyright 2023 XalisRatt
+    License: GNU GPL-3
+   
 License:
 
     This package is free software; you can redistribute it and/or modify

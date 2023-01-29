@@ -1,0 +1,38 @@
+# Файл української локалізації для Sparky System Info.
+# Ukrainian localization made by XalisRatt 2023/01/19 (I almost never use email, so contact me on matrix instead <@xalisqull:arcticfoxes.net> or discord <XalisRatt#2308>
+# Copyright 2021 PaweЕ‚ "pavroo" Pijanowski <pavroo@onet.eu> 2021/02/28
+# Under the GNU GPL v2
+# Last update by pavroo 2021/02/28
+LOCAL1="Інформація про ЦП"
+LOCAL2="Параметр"
+LOCAL3="Значення"
+LOCAL4="Інформація по використанню пам'яті"
+LOCAL5="Клас"
+LOCAL6="Постачальник"
+LOCAL7="Пристрій"
+LOCAL8="Rev"
+LOCAL9="Пристрій шини PCI"
+LOCAL10="Завантажені модулі ядра"
+LOCAL11="Назва"
+LOCAL12="Використовується"
+LOCAL13="Залежить"
+LOCAL14="Стан батареї"
+LOCAL15="Подробиці"
+LOCAL16="Інформація про датчики"
+LOCAL17="Використання дискового простору"
+LOCAL18="Розмір"
+LOCAL19="Власник"
+LOCAL20="Тип"
+LOCAL21="Точка монтування"
+LOCAL22="Системна інформація"
+LOCAL23="Пам'ять"
+LOCAL24="Модулі"
+LOCAL25="Батарея"
+LOCAL26="Датчики"
+LOCAL27="Диски"
+LOCAL28="Інформація по апаратній системі"
+LOCAL29="Вихід"
+LOCAL30="Ядро"
+### .desktop file to be translated too
+# Name [uk_UA]=Системна інформація
+# Comment [uk_UA]=Збирає та показує системну інформацію
