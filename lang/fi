@@ -1,0 +1,37 @@
+# Suomenkielinen lokalisointitiedosto Sparky System Infolle.
+# Tekijänoikeus 2021 PaweÅ‚ "pavroo" Pijanowski <pavroo@onet.eu> 28.2.2021
+# GNU GPL v2:n alla
+# Viimeisin päivitys 2021/02/28 pavroo
+LOCAL1="CPU-tiedot"
+LOCAL2="Parametri"
+LOCAL3="Arvo"
+LOCAL4="Muistin käyttötiedot"
+LOCAL5="Luokka"
+LOCAL6="Myyjä"
+LOCAL7="Laite"
+LOCAL8="Rev"
+LOCAL9="PCI-väylälaitteet"
+LOCAL10="Ladatut ydinmoduulit"
+LOCAL11="Nimi"
+LOCAL12="Käytetty"
+LOCAL13="Riippuu"
+LOCAL14="Akun tila"
+LOCAL15="Tiedot"
+LOCAL16="Anturitiedot"
+LOCAL17="Levytilan käyttö"
+LOCAL18="Koko"
+LOCAL19="Omistaja"
+LOCAL20="Tyyppi"
+LOCAL21="Kiinnityspiste"
+LOCAL22="Järjestelmätiedot"
+LOCAL23="Muisti"
+LOCAL24="Moduulit"
+LOCAL25="Akku"
+LOCAL26="Anturit"
+LOCAL27="Levyt"
+LOCAL28="Laitteistojärjestelmän tiedot"
+LOCAL29="Poistu"
+LOCAL30="Ydin"
+### .desktop-tiedosto käännettävä myös
+# Name[fi]=Järjestelmätiedot
+# Comment[fi]=Kerää ja näytä tietoja järjestelmästä

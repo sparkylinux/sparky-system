@@ -6,7 +6,7 @@ Upstream Author(s):
     Paweł "pavroo" Pijanowski <pavroo@onet.eu>
     
 Files: *
-    Copyright (C) 2021-2023 Paweł Pijanowski
+    Copyright (C) 2021-2024 Paweł Pijanowski
     License: GNU GPL-3
 
 File: el
@@ -16,6 +16,10 @@ File: el
 File: es
     Copyright (C) 2021 Leonardo Muñoz
     License: GNU GPL-3
+
+File: fi
+    Copyright (C) 2024 Jouko Tiilikainen
+    License: GPL-2
 
 File: hu
     Copyright (C) 2021 nemomen
