@@ -1,0 +1,37 @@
+# German localization file for Sparky System Info. (27.05.2025)
+# Copyright 2021 Paweł "pavroo" Pijanowski <pavroo@onet.eu> 2021/02/28
+# Under the GNU GPL v2
+# Last update 2021/02/28 by pavroo
+LOCAL1="CPU-Informationen"
+LOCAL2="Parameter"
+LOCAL3="Wert"
+LOCAL4="Informationen zur Speichernutzung"
+LOCAL5="Klasse"
+LOCAL6="Anbieter"
+LOCAL7="Gerät"
+LOCAL8="Rev."
+LOCAL9="PCI-Bus-Geräte"
+LOCAL10="Geladene Kernel-Module"
+LOCAL11="Name"
+LOCAL12="Verwendet"
+LOCAL13="Hängt ab von"
+LOCAL14="Akkustatus"
+LOCAL15="Details"
+LOCAL16="Informationen über Sensoren"
+LOCAL17="Speicherplatznutzung"
+LOCAL18="Größe"
+LOCAL19="Eigentümer"
+LOCAL20="Typ"
+LOCAL21="Einhängepunkt"
+LOCAL22="System-Info"
+LOCAL23="Speicher"
+LOCAL24="Module"
+LOCAL25="Akku"
+LOCAL26="Sensoren"
+LOCAL27="Platten"
+LOCAL28="Informationen zum Hardware-System"
+LOCAL29="Beenden"
+LOCAL30="Kernel"
+### .desktop file to be translated too
+# Name[de_DE]=System-Info
+# Comment[de_DE]=Informationen über das System erfassen und zeigen

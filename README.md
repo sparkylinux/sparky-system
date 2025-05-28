@@ -1,7 +1,7 @@
 Sparky System
 Sparky System gathers and shows information about system and displays them with Yad.
 
-Copyright (C) 2021-2024 Paweł Pijanowski
+Copyright (C) 2021-2025 Paweł Pijanowski
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
